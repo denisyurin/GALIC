@@ -16,8 +16,4 @@ Yurin D., Springel, V., 2014, MNRAS
 
 Users of the code are kindly asked to cite the paper if they make
 use of the code. The code is released "as is", without any guarantees
-or warrantees.
-
-Support
----------------------------------------------------------------------------
-To get support, please open a new issue
+or warrantees. To get support, please open a new issue.
