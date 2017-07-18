@@ -5,7 +5,7 @@ GALIC v1.1  - A code for the creation of galaxy inititial conditions
 GALIC v1.1 is an updated version of GALIC code (http://www.h-its.org/tap/galic) 
 which is implementation of a new iterative method to construct steady state
 composite halo-disk-bulge galaxy models with prescribed density distribution 
-and velocity anisotropy.
+and velocity anisotropy. The update is mainly about the new constraints on the time averaged velocity structure to force it  be equal to the one we are starting with.
   
 Copyright (c) 2014-2017 by Denis Yurin and Volker Springel
 
