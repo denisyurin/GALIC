@@ -18,4 +18,4 @@ Copyright (c) 2014-2017 by Denis Yurin and Volker Springel
 
 Known Issues
 --------------------------------
-The calcualtion of velocity dispersions via integration of Jeans equations is faulty beyond 8kpc for TypeOfHaloVelocityStructure=2, so don't use it for now for Halo and Bulge, instead use TypeOfHaloVelocityStructure=3 with HaloDispersionRoverZratio=1 and BulgeDispersionRoverZratio.  
+The calculation of target velocity dispersions is faulty beyond 8 Mpc for Type 2 of the velocity structure, so don't use it for now for Halo and Bulge, instead if necessary mimic it with Type 3 of velocity structure with dispersion R over Z ratio set to 1.
