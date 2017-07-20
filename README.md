@@ -15,3 +15,7 @@ use of the code. The code is released "as is", without any guarantees
 or warrantees. To get support, please open a new issue.
 
 Copyright (c) 2014-2017 by Denis Yurin and Volker Springel
+
+Known Issues
+--------------------------------
+The calcualtion of velocity dispersions via integration of Jeans equations is faulty beyond 8kpc for TypeOfHaloVelocityStructure=2, so don't use it for now for Halo and Bulge, instead use TypeOfHaloVelocityStructure=3 with HaloDispersionRoverZratio=1 and BulgeDispersionRoverZratio.  
