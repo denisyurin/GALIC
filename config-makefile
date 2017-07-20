@@ -1,6 +1,0 @@
-RESULT     := $(shell mkdir -p $(BUILD_DIR)  )
-
-all: $(BUILD_DIR)/galicconfig.h 
-
-$(BUILD_DIR)/galicconfig.h:  $(CONFIG)
-	$(PERL) prepare-config.perl $(CONFIG) $(BUILD_DIR)
