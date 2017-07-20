@@ -107,7 +107,7 @@ MaxVelInUnitsVesc                 0.99  % maximum allowed velocity in units of t
 %------   Construction of target density field
 
 SampleDensityFieldForTargetResponse 1               % if set to 1, the code will randomly sample points to construct the density field
-SampleParticleCount                 10000000       % number of points sampled for target density field 
+SampleParticleCount                 100000000       % number of points sampled for target density field 
 
 
 %------   Construction of force field
