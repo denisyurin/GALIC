@@ -13,7 +13,7 @@ use of the code.
 The update version is not fully tested and released "as is", without any guarantees
 or warrantees. To get support, please open a new issue.
 
-Copyright (c) 2014-2017 by Denis Yurin and Volker Springel
+Copyright (c) 2014-2017 by Volker Springel and Denis Yurin 
 
 Known Issues
 --------------------------------
