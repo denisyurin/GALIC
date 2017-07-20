@@ -7,10 +7,10 @@ composite halo-disk-bulge galaxy models with prescribed density distribution
 and velocity anisotropy. This update is mainly about the new constraints on the time averaged velocity structure in order to ensure its equality to the target distribution of velocity dispersions.
   
 The method and the original version of GALIC is described in full in the paper:
-Yurin D. & Springel, V. An iterative method for the construction of N-body galaxy models in collisionless equilibrium. MNRAS, 2014. (preprint: http://arxiv.org/abs/1402.1623) 
+Yurin D. & Springel, V. An iterative method for the construction of N-body galaxy models in collisionless equilibrium. MNRAS, 2014. (preprint: http://arxiv.org/abs/1402.1623). Users of the code are kindly asked to cite the paper if they make
+use of the code. 
 
-Users of the code are kindly asked to cite the paper if they make
-use of the code. The code is released "as is", without any guarantees
+The update code is not fully tested and released "as is", without any guarantees
 or warrantees. To get support, please open a new issue.
 
 Copyright (c) 2014-2017 by Denis Yurin and Volker Springel
