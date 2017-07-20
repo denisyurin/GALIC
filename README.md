@@ -17,6 +17,6 @@ Copyright (c) 2014-2017 by Denis Yurin and Volker Springel
 
 Known Issues
 --------------------------------
-#1. The calculation of target velocity dispersions is faulty beyond 8 Mpc for the velocity structure of type 2, so don't use it for now for Halo and Bulge, instead if necessary mimic it with velocity structure of type 3 with dispersion R over Z ratio set to 1.
+#1. The calculation of target velocity dispersions is faulty beyond 8 Mpc for velocity structure of type 2, so don't use it for now for Halo and Bulge, instead if necessary mimic it with velocity structure of type 3 with dispersion R over Z ratio set to 1.
 
 #2. The putting of the time-averaged velocity dispersions to the target ones is not fully successful in case of the disk. Which means that one can still see the rapid change of the velocity structure in the disk that is not related to the disk relaxation.
