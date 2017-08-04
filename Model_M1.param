@@ -157,10 +157,10 @@ HaloValueTsFac 1.0
 HaloValueQsFac 1.0
 HaloValuePsFac 1.0
 					 
-DiskValueRsFac 0.0
-DiskValueTsFac 0.0
-DiskValueQsFac 0.0
-DiskValuePsFac 0.0
+DiskValueRsFac 1.0
+DiskValueTsFac 1.0
+DiskValueQsFac 1.0
+DiskValuePsFac 1.0
 
 BulgeValueRsFac 1.0
 BulgeValueTsFac 1.0
